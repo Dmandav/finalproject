@@ -1,4 +1,5 @@
-his is a sample folder for my final project
+
+This is a sample folder for my final project
 
 My skills are Jenkins, CI/CD, Docker, Kubernetes, AWS
 
